@@ -1,0 +1,7 @@
+{
+  "name": "NeuroVision ML Platform",
+  "description": "A comprehensive end-to-end Machine Learning platform for creating, training, and deploying custom object detection models using Deep Learning principles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
